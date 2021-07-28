@@ -20,6 +20,6 @@
 ### Alternative to Stripe : 
 - MANGOPAY
 -  Adyen
-- Payapl
+- Payapal
 - Dwolla 
 - Skrill
